@@ -1,5 +1,4 @@
-
-Android BluetoothChat Sample
+MediWatch Bluetooth App mobile Sample
 ===================================
 
 This sample shows how to implement two-way text chat over Bluetooth between two Android devices, using
