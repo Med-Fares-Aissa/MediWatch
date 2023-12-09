@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "725399026971",
+    "project_id": "covid-19-pfa",
+    "storage_bucket": "covid-19-pfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725399026971:android:32595b0a28bf0731c9e7be",
+        "android_client_info": {
+          "package_name": "com.example.android.bluetoothchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725399026971-s69lnqln77ej9p5t5i3ht6l3tlpgus8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRB8Qz2fEna8R5w5GLlwz6CaVAqRD1RTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725399026971-s69lnqln77ej9p5t5i3ht6l3tlpgus8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725399026971:android:1ae7064f566b378bc9e7be",
+        "android_client_info": {
+          "package_name": "com.example.covid_19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725399026971-s69lnqln77ej9p5t5i3ht6l3tlpgus8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRB8Qz2fEna8R5w5GLlwz6CaVAqRD1RTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725399026971-s69lnqln77ej9p5t5i3ht6l3tlpgus8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

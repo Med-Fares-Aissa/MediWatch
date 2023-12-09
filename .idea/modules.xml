@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/changement_du_traitement.iml" filepath="$PROJECT_DIR$/.idea/modules/changement_du_traitement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/changement_du_traitement.Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/changement_du_traitement.Application.iml" />
+    </modules>
+  </component>
+</project>
